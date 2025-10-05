@@ -1,0 +1,12 @@
+aws_endpoint: https://s3.romanpeters.nl
+aws_access_key_id: SV12NGP0FYHBIME66WRL
+aws_secret_access_key: env:AWS_SECRET_ACCESS_KEY
+aws_bucket: server
+domain_name: romanpeters.nl
+dns_domain: internal
+ssh_user: romanpeters
+ssh_private_key: env:SSH_PRIVATE_KEY
+ssh_host: mac-mini
+plex_url: http://plex.internal:32400
+plex_token: env:PLEX_TOKEN
+port: 13316
